@@ -1,0 +1,11 @@
+# Instalacion de Minecraft (varios GB: nunca debe entrar al repositorio)
+datos_minecraft/
+
+# Preferencias locales del lanzador (incluye el nombre de usuario)
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
