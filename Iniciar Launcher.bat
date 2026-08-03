@@ -1,3 +1,3 @@
 @echo off
-python launcher.py.txt
+python launcher.py
 pause
